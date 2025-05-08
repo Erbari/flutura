@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-boxz;
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+  }
+
+  header{
+    text-align: center;
+    background-color: #7b86a1;
+    border-radius: 5px;
+    color: white;
+    padding: 30px;
+    margin: 10px;
+ }
+
+  
+  .form-section {
+    background: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  .module {
+    background: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .module h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .lista {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .lista li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+
+  .flutura {
+    width: 100%;
+    margin: 20px;
+    padding: 20px;
+    padding-block-end: 20px;
+    border-radius: 6px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .flutura h3 {
+    margin: 5px;
+  }
+
+
+img {
+    width: 500px;
+}
+
+.logo p {
+    text-align: center;
+
+}
